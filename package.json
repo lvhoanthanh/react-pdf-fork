@@ -30,7 +30,7 @@
     "@react-pdf/layout": "^3.6.0",
     "@react-pdf/pdfkit": "^3.0.2",
     "@react-pdf/primitives": "^3.0.0",
-    "@react-pdf/render": "^3.2.4",
+    "@react-pdf/render": "git+https://github.com/lvhoanthanh/react-pdf/packages/render.git",
     "@react-pdf/types": "^2.3.1",
     "events": "^3.3.0",
     "object-assign": "^4.1.1",
