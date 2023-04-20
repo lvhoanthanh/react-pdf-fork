@@ -10,7 +10,7 @@
   "module": "./lib/react-pdf.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/lvhoanthanh/react-pdf-fork.git",
     "directory": "packages/renderer"
   },
   "browser": {
